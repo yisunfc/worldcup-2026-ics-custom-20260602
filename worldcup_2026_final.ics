@@ -6,16 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:FIFA World Cup
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY: 🇲🇽 vs 🇿🇦 [\\1]
+SUMMARY:🇲🇽 vs 🇿🇦 [A]
 DTSTART:20260611T190000Z
 DTEND:20260611T203000Z
 DTSTAMP:20260427T102654Z
 UID:OuZtKYFHBaPf
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Azteca Mexico City
 PRIORITY:5
 STATUS:CONFIRMED
@@ -23,16 +20,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇰🇷 vs 🇨🇿 [\\1]
+SUMMARY:🇰🇷 vs 🇨🇿 [A]
 DTSTART:20260612T020000Z
 DTEND:20260612T033000Z
 DTSTAMP:20260427T102654Z
 UID:M5nJUUg9Vpyg
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Guadalajara
 PRIORITY:5
 STATUS:CONFIRMED
@@ -40,16 +34,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇦 vs 🇧🇦 [\\1]
+SUMMARY:🇨🇦 vs 🇧🇦 [B]
 DTSTART:20260612T190000Z
 DTEND:20260612T203000Z
 DTSTAMP:20260427T102654Z
 UID:SVYWjnEDAKnS
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Toronto Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -57,16 +48,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇺🇸 vs 🇵🇾 [\\1]
+SUMMARY:🇺🇸 vs 🇵🇾 [D]
 DTSTART:20260613T010000Z
 DTEND:20260613T023000Z
 DTSTAMP:20260427T102654Z
 UID:rDoJk7BsXCet
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -74,16 +62,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇶🇦 vs 🇨🇭 [\\1]
+SUMMARY:🇶🇦 vs 🇨🇭 [B]
 DTSTART:20260613T190000Z
 DTEND:20260613T203000Z
 DTSTAMP:20260427T102654Z
 UID:VdSWrQWLXKOU
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:San Francisco Bay Area Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -91,16 +76,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇧🇷 vs 🇲🇦 [\\1]
+SUMMARY:🇧🇷 vs 🇲🇦 [C]
 DTSTART:20260613T220000Z
 DTEND:20260613T233000Z
 DTSTAMP:20260427T102654Z
 UID:1cyMiIiMo5CwH
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -108,16 +90,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇭🇹 vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [\\1]
+SUMMARY:🇭🇹 vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [C]
 DTSTART:20260614T010000Z
 DTEND:20260614T023000Z
 DTSTAMP:20260427T102654Z
 UID:usxy4scD3GwL
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Boston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -125,16 +104,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇦🇺 vs 🇹🇷 [\\1]
+SUMMARY:🇦🇺 vs 🇹🇷 [D]
 DTSTART:20260614T040000Z
 DTEND:20260614T053000Z
 DTSTAMP:20260427T102654Z
 UID:KFkJhn5zLPWi
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:BC Place Vancouver
 PRIORITY:5
 STATUS:CONFIRMED
@@ -142,16 +118,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇩🇪 vs 🇨🇼 [\\1]
+SUMMARY:🇩🇪 vs 🇨🇼 [E]
 DTSTART:20260614T170000Z
 DTEND:20260614T183000Z
 DTSTAMP:20260427T102654Z
 UID:1bwrDxHvSDMv8
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Houston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -159,16 +132,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇳🇱 vs 🇯🇵 [\\1]
+SUMMARY:🇳🇱 vs 🇯🇵 [F]
 DTSTART:20260614T200000Z
 DTEND:20260614T223000Z
 DTSTAMP:20260427T102654Z
 UID:xe0nrV4ukUKC
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -176,16 +146,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇮 vs 🇪🇨 [\\1]
+SUMMARY:🇨🇮 vs 🇪🇨 [E]
 DTSTART:20260614T230000Z
 DTEND:20260615T003000Z
 DTSTAMP:20260427T102654Z
 UID:157GoD5Ly0uMo
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Philadelphia Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -193,16 +160,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇸🇪 vs 🇹🇳 [\\1]
+SUMMARY:🇸🇪 vs 🇹🇳 [F]
 DTSTART:20260615T020000Z
 DTEND:20260615T033000Z
 DTSTAMP:20260427T102654Z
 UID:kFwGpMtXcI82
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Monterrey
 PRIORITY:5
 STATUS:CONFIRMED
@@ -210,16 +174,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇪🇸 vs 🇨🇻 [\\1]
+SUMMARY:🇪🇸 vs 🇨🇻 [H]
 DTSTART:20260615T160000Z
 DTEND:20260615T173000Z
 DTSTAMP:20260427T102654Z
 UID:erNv5Gl5P4rJ
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -227,16 +188,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇧🇪 vs 🇪🇬 [\\1]
+SUMMARY:🇧🇪 vs 🇪🇬 [G]
 DTSTART:20260615T190000Z
 DTEND:20260615T203000Z
 DTSTAMP:20260427T102654Z
 UID:13KtsIhcDK8Uo
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Seattle Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -244,16 +202,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇸🇦 vs 🇺🇾 [\\1]
+SUMMARY:🇸🇦 vs 🇺🇾 [H]
 DTSTART:20260615T220000Z
 DTEND:20260615T233000Z
 DTSTAMP:20260427T102654Z
 UID:fLDjT3lWhatT
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Miami Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -261,16 +216,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇮🇷 vs 🇳🇿 [\\1]
+SUMMARY:🇮🇷 vs 🇳🇿 [G]
 DTSTART:20260616T010000Z
 DTEND:20260616T023000Z
 DTSTAMP:20260427T102654Z
 UID:H14F7894FWxE
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -278,16 +230,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇫🇷 vs 🇸🇳 [\\1]
+SUMMARY:🇫🇷 vs 🇸🇳 [I]
 DTSTART:20260616T190000Z
 DTEND:20260616T203000Z
 DTSTAMP:20260427T102654Z
 UID:Sn0sY8UK9pz9
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -295,16 +244,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇮🇶 vs 🇳🇴 [\\1]
+SUMMARY:🇮🇶 vs 🇳🇴 [I]
 DTSTART:20260616T220000Z
 DTEND:20260616T233000Z
 DTSTAMP:20260427T102654Z
 UID:vX77pjgagpSH
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Boston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -312,16 +258,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇦🇷 vs 🇩🇿 [\\1]
+SUMMARY:🇦🇷 vs 🇩🇿 [J]
 DTSTART:20260617T010000Z
 DTEND:20260617T023000Z
 DTSTAMP:20260427T102654Z
 UID:1g6Fxhrs9ZdVZ
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Kansas City Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -329,16 +272,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇦🇹 vs 🇯🇴 [\\1]
+SUMMARY:🇦🇹 vs 🇯🇴 [J]
 DTSTART:20260617T040000Z
 DTEND:20260617T053000Z
 DTSTAMP:20260427T102654Z
 UID:19VP3GDGerCBj
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:San Francisco Bay Area Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -346,16 +286,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇵🇹 vs 🇨🇩 [\\1]
+SUMMARY:🇵🇹 vs 🇨🇩 [K]
 DTSTART:20260617T170000Z
 DTEND:20260617T183000Z
 DTSTAMP:20260427T102654Z
 UID:NHzPSNn6wzZC
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Houston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -363,16 +300,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇬🇭 vs 🇵🇦 [\\1]
+SUMMARY:🇬🇭 vs 🇵🇦 [L]
 DTSTART:20260617T200000Z
 DTEND:20260617T223000Z
 DTSTAMP:20260427T102654Z
 UID:z1OkEGydVRC6
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Toronto Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -380,16 +314,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇭🇷 [\\1]
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇭🇷 [L]
 DTSTART:20260617T200000Z
 DTEND:20260617T213000Z
 DTSTAMP:20260427T102654Z
 UID:14aWievC3ABiV
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -397,16 +328,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇺🇿 vs 🇨🇴 [\\1]
+SUMMARY:🇺🇿 vs 🇨🇴 [K]
 DTSTART:20260618T020000Z
 DTEND:20260618T033000Z
 DTSTAMP:20260427T102654Z
 UID:DrRCjycpuHA0
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Azteca Mexico City
 PRIORITY:5
 STATUS:CONFIRMED
@@ -414,16 +342,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇿 vs 🇿🇦 [\\1]
+SUMMARY:🇨🇿 vs 🇿🇦 [A]
 DTSTART:20260618T160000Z
 DTEND:20260618T173000Z
 DTSTAMP:20260427T102654Z
 UID:XFfrVi58prvR
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -431,16 +356,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇭 vs 🇧🇦 [\\1]
+SUMMARY:🇨🇭 vs 🇧🇦 [B]
 DTSTART:20260618T190000Z
 DTEND:20260618T203000Z
 DTSTAMP:20260427T102654Z
 UID:pkECmU0yJUD5
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -448,16 +370,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇦 vs 🇶🇦 [\\1]
+SUMMARY:🇨🇦 vs 🇶🇦 [B]
 DTSTART:20260618T220000Z
 DTEND:20260618T233000Z
 DTSTAMP:20260427T102654Z
 UID:8B1BRhEefQ0b
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:BC Place Vancouver
 PRIORITY:5
 STATUS:CONFIRMED
@@ -465,16 +384,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇲🇽 vs Korea Republic [\\1]
+SUMMARY:🇲🇽 vs Korea Republic [A]
 DTSTART:20260619T010000Z
 DTEND:20260619T023000Z
 DTSTAMP:20260427T102654Z
 UID:3Xhc9NK0WI24
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Guadalajara
 PRIORITY:5
 STATUS:CONFIRMED
@@ -482,16 +398,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇺🇸 vs 🇦🇺 [\\1]
+SUMMARY:🇺🇸 vs 🇦🇺 [D]
 DTSTART:20260619T190000Z
 DTEND:20260619T203000Z
 DTSTAMP:20260427T102654Z
 UID:DQYtZW37J3Qz
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Seattle Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -499,16 +412,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs 🇲🇦 [\\1]
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs 🇲🇦 [C]
 DTSTART:20260619T220000Z
 DTEND:20260619T233000Z
 DTSTAMP:20260427T102654Z
 UID:N4ZJAM83Y4Uu
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Boston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -516,16 +426,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇧🇷 vs 🇭🇹 [\\1]
+SUMMARY:🇧🇷 vs 🇭🇹 [C]
 DTSTART:20260620T010000Z
 DTEND:20260620T023000Z
 DTSTAMP:20260427T102654Z
 UID:LbBFnfgoi14U
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Philadelphia Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -533,16 +440,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇹🇷 vs 🇵🇾 [\\1]
+SUMMARY:🇹🇷 vs 🇵🇾 [D]
 DTSTART:20260620T040000Z
 DTEND:20260620T053000Z
 DTSTAMP:20260427T102654Z
 UID:LEQPdgflnsUg
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:San Francisco Bay Area Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -550,16 +454,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇳🇱 vs 🇸🇪 [\\1]
+SUMMARY:🇳🇱 vs 🇸🇪 [F]
 DTSTART:20260620T170000Z
 DTEND:20260620T183000Z
 DTSTAMP:20260427T102654Z
 UID:BkNCSNxNd1cw
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Houston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -567,16 +468,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇩🇪 vs 🇨🇮 [\\1]
+SUMMARY:🇩🇪 vs 🇨🇮 [E]
 DTSTART:20260620T200000Z
 DTEND:20260620T213000Z
 DTSTAMP:20260427T102654Z
 UID:eS1apwwKu9x7
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Toronto Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -584,16 +482,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇪🇨 vs 🇨🇼 [\\1]
+SUMMARY:🇪🇨 vs 🇨🇼 [E]
 DTSTART:20260621T000000Z
 DTEND:20260621T013000Z
 DTSTAMP:20260427T102654Z
 UID:1jCBU2V5glRnR
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Kansas City Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -601,16 +496,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇹🇳 vs 🇯🇵 [\\1]
+SUMMARY:🇹🇳 vs 🇯🇵 [F]
 DTSTART:20260621T040000Z
 DTEND:20260621T053000Z
 DTSTAMP:20260427T102654Z
 UID:Se3CTbJsVB54
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Monterrey
 PRIORITY:5
 STATUS:CONFIRMED
@@ -618,16 +510,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇪🇸 vs 🇸🇦 [\\1]
+SUMMARY:🇪🇸 vs 🇸🇦 [H]
 DTSTART:20260621T160000Z
 DTEND:20260621T173000Z
 DTSTAMP:20260427T102654Z
 UID:1bh4hdHuYtXrV
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -635,16 +524,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇧🇪 vs 🇮🇷 [\\1]
+SUMMARY:🇧🇪 vs 🇮🇷 [G]
 DTSTART:20260621T190000Z
 DTEND:20260621T203000Z
 DTSTAMP:20260427T102654Z
 UID:m6PT1weg8KEe
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -652,16 +538,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇺🇾 vs 🇨🇻 [\\1]
+SUMMARY:🇺🇾 vs 🇨🇻 [H]
 DTSTART:20260621T220000Z
 DTEND:20260621T233000Z
 DTSTAMP:20260427T102654Z
 UID:dg9x8T1ODhu5
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Miami Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -669,16 +552,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇳🇿 vs 🇪🇬 [\\1]
+SUMMARY:🇳🇿 vs 🇪🇬 [G]
 DTSTART:20260622T010000Z
 DTEND:20260622T023000Z
 DTSTAMP:20260427T102654Z
 UID:pCF5OekFvv8k
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:BC Place Vancouver
 PRIORITY:5
 STATUS:CONFIRMED
@@ -686,16 +566,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇦🇷 vs 🇦🇹 [\\1]
+SUMMARY:🇦🇷 vs 🇦🇹 [J]
 DTSTART:20260622T170000Z
 DTEND:20260622T183000Z
 DTSTAMP:20260427T102654Z
 UID:5VJ2RFFY7esL
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -703,16 +580,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇫🇷 vs ❓ [\\1]
+SUMMARY:🇫🇷 vs ❓ [I]
 DTSTART:20260622T210000Z
 DTEND:20260622T223000Z
 DTSTAMP:20260427T102654Z
 UID:1kVAPXfpSaFsZ
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Philadelphia Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -720,16 +594,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇳🇴 vs 🇸🇳 [\\1]
+SUMMARY:🇳🇴 vs 🇸🇳 [I]
 DTSTART:20260623T000000Z
 DTEND:20260623T013000Z
 DTSTAMP:20260427T102654Z
 UID:1eBGp3KaBN0KE
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -737,16 +608,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇯🇴 vs 🇩🇿 [\\1]
+SUMMARY:🇯🇴 vs 🇩🇿 [J]
 DTSTART:20260623T030000Z
 DTEND:20260623T043000Z
 DTSTAMP:20260427T102654Z
 UID:3szGmj7JpYl8
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:San Francisco Bay Area Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -754,16 +622,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇵🇹 vs 🇺🇿 [\\1]
+SUMMARY:🇵🇹 vs 🇺🇿 [K]
 DTSTART:20260623T170000Z
 DTEND:20260623T183000Z
 DTSTAMP:20260427T102654Z
 UID:eWVqQPtyhdYK
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Houston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -771,16 +636,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇬🇭 [\\1]
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇬🇭 [L]
 DTSTART:20260623T200000Z
 DTEND:20260623T213000Z
 DTSTAMP:20260427T102654Z
 UID:1d5aP6NO1I6QE
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Boston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -788,16 +650,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇵🇦 vs 🇭🇷 [\\1]
+SUMMARY:🇵🇦 vs 🇭🇷 [L]
 DTSTART:20260623T230000Z
 DTEND:20260624T003000Z
 DTSTAMP:20260427T102654Z
 UID:1bSvRtUOcBQ7Y
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Toronto Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -805,16 +664,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇴 vs 🇨🇩 [\\1]
+SUMMARY:🇨🇴 vs 🇨🇩 [K]
 DTSTART:20260624T020000Z
 DTEND:20260624T033000Z
 DTSTAMP:20260427T102654Z
 UID:lHVF6dj8NToR
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Guadalajara
 PRIORITY:5
 STATUS:CONFIRMED
@@ -822,16 +678,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇭 vs 🇨🇦 [\\1]
+SUMMARY:🇨🇭 vs 🇨🇦 [B]
 DTSTART:20260624T190000Z
 DTEND:20260624T203000Z
 DTSTAMP:20260427T102654Z
 UID:bCShmIs6FwCz
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:BC Place Vancouver
 PRIORITY:5
 STATUS:CONFIRMED
@@ -839,16 +692,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇧🇦 vs 🇶🇦 [\\1]
+SUMMARY:🇧🇦 vs 🇶🇦 [B]
 DTSTART:20260624T190000Z
 DTEND:20260624T203000Z
 DTSTAMP:20260427T102654Z
 UID:1qHWmS9ytOLDT
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Seattle Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -856,16 +706,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs 🇧🇷 [\\1]
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs 🇧🇷 [C]
 DTSTART:20260624T220000Z
 DTEND:20260624T233000Z
 DTSTAMP:20260427T102654Z
 UID:19IeeQj9INe9
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Miami Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -873,16 +720,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇲🇦 vs 🇭🇹 [\\1]
+SUMMARY:🇲🇦 vs 🇭🇹 [C]
 DTSTART:20260624T220000Z
 DTEND:20260624T233000Z
 DTSTAMP:20260427T102654Z
 UID:1aE4xhUB0rGxK
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -890,16 +734,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇿🇦 vs Korea Republic [\\1]
+SUMMARY:🇿🇦 vs Korea Republic [A]
 DTSTART:20260625T010000Z
 DTEND:20260625T023000Z
 DTSTAMP:20260427T102654Z
 UID:v53R1MNi1Far
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Monterrey
 PRIORITY:5
 STATUS:CONFIRMED
@@ -907,16 +748,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇿 vs 🇲🇽 [\\1]
+SUMMARY:🇨🇿 vs 🇲🇽 [A]
 DTSTART:20260625T013000Z
 DTEND:20260625T023000Z
 DTSTAMP:20260427T102654Z
 UID:mRZkaX3CypEe
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Azteca Mexico City
 PRIORITY:5
 STATUS:CONFIRMED
@@ -924,16 +762,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇼 vs 🇨🇮 [\\1]
+SUMMARY:🇨🇼 vs 🇨🇮 [E]
 DTSTART:20260625T200000Z
 DTEND:20260625T213000Z
 DTSTAMP:20260427T102654Z
 UID:KFwnADvtG59g
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Philadelphia Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -941,16 +776,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇪🇨 vs 🇩🇪 [\\1]
+SUMMARY:🇪🇨 vs 🇩🇪 [E]
 DTSTART:20260625T200000Z
 DTEND:20260625T213000Z
 DTSTAMP:20260427T102654Z
 UID:rZoXcVv94aFF
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -958,16 +790,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇯🇵 vs 🇸🇪 [\\1]
+SUMMARY:🇯🇵 vs 🇸🇪 [F]
 DTSTART:20260625T230000Z
 DTEND:20260626T003000Z
 DTSTAMP:20260427T102654Z
 UID:JRcwtdEhjQL5
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -975,16 +804,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇹🇳 vs 🇳🇱 [\\1]
+SUMMARY:🇹🇳 vs 🇳🇱 [F]
 DTSTART:20260625T230000Z
 DTEND:20260626T003000Z
 DTSTAMP:20260427T102654Z
 UID:1219F4DKKF0IS
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Kansas City Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -992,16 +818,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇹🇷 vs 🇺🇸 [\\1]
+SUMMARY:🇹🇷 vs 🇺🇸 [D]
 DTSTART:20260626T020000Z
 DTEND:20260626T033000Z
 DTSTAMP:20260427T102654Z
 UID:5epvgwMjpRBn
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1009,16 +832,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇵🇾 vs 🇦🇺 [\\1]
+SUMMARY:🇵🇾 vs 🇦🇺 [D]
 DTSTART:20260626T020000Z
 DTEND:20260626T033000Z
 DTSTAMP:20260427T102654Z
 UID:frwYCK5ACnEP
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:San Francisco Bay Area Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1026,16 +846,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇳🇴 vs 🇫🇷 [\\1]
+SUMMARY:🇳🇴 vs 🇫🇷 [I]
 DTSTART:20260626T190000Z
 DTEND:20260626T203000Z
 DTSTAMP:20260427T102654Z
 UID:1q3JDa1X9a67Y
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Boston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1043,16 +860,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇸🇳 vs 🇮🇶 [\\1]
+SUMMARY:🇸🇳 vs 🇮🇶 [I]
 DTSTART:20260626T190000Z
 DTEND:20260626T203000Z
 DTSTAMP:20260427T102654Z
 UID:15K4IZ7Lt2vjj
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Toronto Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1060,16 +874,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇻 vs 🇸🇦 [\\1]
+SUMMARY:🇨🇻 vs 🇸🇦 [H]
 DTSTART:20260627T000000Z
 DTEND:20260627T013000Z
 DTSTAMP:20260427T102654Z
 UID:10tsHB1rgelR8
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Houston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1077,16 +888,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇺🇾 vs 🇪🇸 [\\1]
+SUMMARY:🇺🇾 vs 🇪🇸 [H]
 DTSTART:20260627T000000Z
 DTEND:20260627T013000Z
 DTSTAMP:20260427T102654Z
 UID:1n5N3wUYBqjoJ
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Guadalajara
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1094,16 +902,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇪🇬 vs 🇮🇷 [\\1]
+SUMMARY:🇪🇬 vs 🇮🇷 [G]
 DTSTART:20260627T030000Z
 DTEND:20260627T043000Z
 DTSTAMP:20260427T102654Z
 UID:aDgSHlMy5bVp
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Seattle Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1111,16 +916,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇳🇿 vs 🇧🇪 [\\1]
+SUMMARY:🇳🇿 vs 🇧🇪 [G]
 DTSTART:20260627T030000Z
 DTEND:20260627T043000Z
 DTSTAMP:20260427T102654Z
 UID:PTgx8ixid65F
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:BC Place Vancouver
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1128,16 +930,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇵🇦 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [\\1]
+SUMMARY:🇵🇦 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [L]
 DTSTART:20260627T210000Z
 DTEND:20260627T223000Z
 DTSTAMP:20260427T102654Z
 UID:1d0K3SnEHB3lF
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1145,16 +944,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇭🇷 vs 🇬🇭 [\\1]
+SUMMARY:🇭🇷 vs 🇬🇭 [L]
 DTSTART:20260627T210000Z
 DTEND:20260627T223000Z
 DTSTAMP:20260427T102654Z
 UID:JMX2OsOxJIRR
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Philadelphia Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1162,16 +958,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇴 vs 🇵🇹 [\\1]
+SUMMARY:🇨🇴 vs 🇵🇹 [K]
 DTSTART:20260627T233000Z
 DTEND:20260628T010000Z
 DTSTAMP:20260427T102654Z
 UID:SkoqhOmnB8oX
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Miami Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1179,16 +972,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇨🇩 vs 🇺🇿 [\\1]
+SUMMARY:🇨🇩 vs 🇺🇿 [K]
 DTSTART:20260627T233000Z
 DTEND:20260628T010000Z
 DTSTAMP:20260427T102654Z
 UID:CwAMJYMW8Evb
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1196,16 +986,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇯🇴 vs 🇦🇷 [\\1]
+SUMMARY:🇯🇴 vs 🇦🇷 [J]
 DTSTART:20260628T020000Z
 DTEND:20260628T033000Z
 DTSTAMP:20260427T102654Z
 UID:1l4FzjW0TT6PG
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1213,16 +1000,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: 🇩🇿 vs 🇦🇹 [\\1]
+SUMMARY:🇩🇿 vs 🇦🇹 [J]
 DTSTART:20260628T020000Z
 DTEND:20260628T033000Z
 DTSTAMP:20260427T102654Z
 UID:1o3ahuYtkEFLC
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Kansas City Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1230,16 +1014,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: runners-up v runners-up [\\1] [R32]
+SUMMARY:Round of 32 runners-up v runners-up [A]
 DTSTART:20260628T190000Z
 DTEND:20260628T203000Z
 DTSTAMP:20260427T102654Z
 UID:1oLXxiIgEjjHA
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1247,16 +1028,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v runners-up [\\1] [R32]
+SUMMARY:Round of 32 winners v runners-up [C]
 DTSTART:20260629T170000Z
 DTEND:20260629T183000Z
 DTSTAMP:20260427T102654Z
 UID:hqQ8L1akAwAp
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Houston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1264,16 +1042,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /B/C/D/F third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /B/C/D/F third place [E]
 DTSTART:20260629T203000Z
 DTEND:20260629T220000Z
 DTSTAMP:20260427T102654Z
 UID:1lHLr32lz9XWG
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Boston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1281,16 +1056,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v runners-up [\\1] [R32]
+SUMMARY:Round of 32 winners v runners-up [F]
 DTSTART:20260630T010000Z
 DTEND:20260630T023000Z
 DTSTAMP:20260427T102654Z
 UID:0leNkQpzqWAn
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Monterrey
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1298,16 +1070,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: runners up v runners-up [\\1] [R32]
+SUMMARY:Round of 32 runners up v runners-up [E]
 DTSTART:20260630T170000Z
 DTEND:20260630T183000Z
 DTSTAMP:20260427T102654Z
 UID:1jwKqeIYoTi2L
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1315,16 +1084,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /D/F/G/H third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /D/F/G/H third place [I]
 DTSTART:20260630T210000Z
 DTEND:20260630T223000Z
 DTSTAMP:20260427T102654Z
 UID:HqW8xae7JMQS
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1332,16 +1098,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /E/F/H/I third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /E/F/H/I third place [A]
 DTSTART:20260701T010000Z
 DTEND:20260701T023000Z
 DTSTAMP:20260427T102654Z
 UID:DP4ICP6g3K2p
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Azteca Mexico City
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1349,16 +1112,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /H/I/J/K third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /H/I/J/K third place [L]
 DTSTART:20260701T160000Z
 DTEND:20260701T173000Z
 DTSTAMP:20260427T102654Z
 UID:8RRE6N4y6RMV
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1366,16 +1126,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /E/H/I/J third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /E/H/I/J third place [G]
 DTSTART:20260701T200000Z
 DTEND:20260701T213000Z
 DTSTAMP:20260427T102654Z
 UID:1pTEG44SoXKkX
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Seattle Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1383,16 +1140,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /E/F/I/J third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /E/F/I/J third place [D]
 DTSTART:20260702T000000Z
 DTEND:20260702T013000Z
 DTSTAMP:20260427T102654Z
 UID:1rcTQHJllYJ8i
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:San Francisco Bay Area Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1400,16 +1154,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v runners-up [\\1] [R32]
+SUMMARY:Round of 32 winners v runners-up [H]
 DTSTART:20260702T190000Z
 DTEND:20260702T203000Z
 DTSTAMP:20260427T102654Z
 UID:VaqvzXJLUKOQ
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1417,16 +1168,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: runners-up v runners-up [\\1] [R32]
+SUMMARY:Round of 32 runners-up v runners-up [K]
 DTSTART:20260702T230000Z
 DTEND:20260703T003000Z
 DTSTAMP:20260427T102654Z
 UID:1qqSvgC03QXtu
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Toronto Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1434,16 +1182,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /F/G/I/J third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /F/G/I/J third place [B]
 DTSTART:20260703T030000Z
 DTEND:20260703T043000Z
 DTSTAMP:20260427T102654Z
 UID:18XNVOSno84C9
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:BC Place Vancouver
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1451,16 +1196,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: runners-up v runners-up [\\1] [R32]
+SUMMARY:Round of 32 runners-up v runners-up [D]
 DTSTART:20260703T180000Z
 DTEND:20260703T193000Z
 DTSTAMP:20260427T102654Z
 UID:VjSuSB3TBTQZ
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1468,16 +1210,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v runners-up [\\1] [R32]
+SUMMARY:Round of 32 winners v runners-up [J]
 DTSTART:20260703T220000Z
 DTEND:20260703T233000Z
 DTSTAMP:20260427T102654Z
 UID:dpZiI8RoqLwC
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Miami Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1485,16 +1224,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: winners v /E/I/J/L third place [\\1] [R32]
+SUMMARY:Round of 32 winners v /E/I/J/L third place [K]
 DTSTART:20260704T013000Z
 DTEND:20260704T030000Z
 DTSTAMP:20260427T102654Z
 UID:lAvZpGwKkpRs
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Kansas City Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1502,16 +1238,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 73 v Winner match 75 [R16]
+SUMMARY:Winner match 73 v Winner match 75 [R16]
 DTSTART:20260704T170000Z
 DTEND:20260704T183000Z
 DTSTAMP:20260427T102654Z
 UID:zPOVTtvGStPh
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Houston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1519,16 +1252,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 74 v Winner match 77 [R16]
+SUMMARY:Winner match 74 v Winner match 77 [R16]
 DTSTART:20260704T210000Z
 DTEND:20260704T223000Z
 DTSTAMP:20260427T102654Z
 UID:ntkgShXtcp5z
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Philadelphia Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1536,16 +1266,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 76 v Winner match 78 [R16]
+SUMMARY:Winner match 76 v Winner match 78 [R16]
 DTSTART:20260705T200000Z
 DTEND:20260705T213000Z
 DTSTAMP:20260427T102654Z
 UID:1i0YLLbx5o5Q0
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1553,16 +1280,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 79 v Winner match 80 [R16]
+SUMMARY:Winner match 79 v Winner match 80 [R16]
 DTSTART:20260706T000000Z
 DTEND:20260706T013000Z
 DTSTAMP:20260427T102654Z
 UID:TwRYbYnON93C
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Estadio Azteca Mexico City
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1570,16 +1294,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 83 v Winner match 84 [R16]
+SUMMARY:Winner match 83 v Winner match 84 [R16]
 DTSTART:20260706T190000Z
 DTEND:20260706T203000Z
 DTSTAMP:20260427T102654Z
 UID:1hlhRXCnLzy5f
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1587,16 +1308,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 81 v Winner match 82 [R16]
+SUMMARY:Winner match 81 v Winner match 82 [R16]
 DTSTART:20260707T000000Z
 DTEND:20260707T013000Z
 DTSTAMP:20260427T102654Z
 UID:1fabffAVeY8w3
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Seattle Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1604,16 +1322,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 86 v Winner match 88 [R16]
+SUMMARY:Winner match 86 v Winner match 88 [R16]
 DTSTART:20260707T160000Z
 DTEND:20260707T173000Z
 DTSTAMP:20260427T102654Z
 UID:hih0KOEISa0N
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1621,16 +1336,13 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-IMPORTANCE:1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Winner match 85 v Winner match 87 [R16]
+SUMMARY:Winner match 85 v Winner match 87 [R16]
 DTSTART:20260707T200000Z
 DTEND:20260707T213000Z
 DTSTAMP:20260427T102654Z
 UID:1dhGQyDGC1dJw
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:BC Place Vancouver
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1645,9 +1357,6 @@ DTSTAMP:20260427T102654Z
 UID:mMSkQTPlVHQb
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Boston Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1662,9 +1371,6 @@ DTSTAMP:20260427T102654Z
 UID:Zn8iZbFTW9Wl
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Los Angeles Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1679,9 +1385,6 @@ DTSTAMP:20260427T102654Z
 UID:tGsSrqKp5M8j
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Miami Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1696,9 +1399,6 @@ DTSTAMP:20260427T102654Z
 UID:11ye2TepYcV7G
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Kansas City Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1713,9 +1413,6 @@ DTSTAMP:20260427T102654Z
 UID:1grvqZ3dwcvVp
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Dallas Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1730,9 +1427,6 @@ DTSTAMP:20260427T102654Z
 UID:mc3qSUBXjmnK
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Atlanta Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1747,9 +1441,6 @@ DTSTAMP:20260427T102654Z
 UID:1bWYQUS5MhbS0
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:Miami Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1764,9 +1455,6 @@ DTSTAMP:20260427T102654Z
 UID:1cK5cXP5Hokdz
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and auto-update
- s with any changes. Discover more exciting calendars at https://calendarla
- bs.com/ical-calendar/
 LOCATION:New York New Jersey Stadium
 PRIORITY:5
 STATUS:CONFIRMED
@@ -1781,9 +1469,6 @@ DTSTAMP:20260427T102654Z
 UID:d03f49fcee0b859c8ee33ed2b1d3dd7c
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Thanks for subscribing! Your calendar is ready and will auto-u
- pdate with any schedule changes. Discover more exciting calendars at https
- ://calendarlabs.com/ical-calendar
 LOCATION:Powered by CalendarLabs.com
 PRIORITY:5
 STATUS:CONFIRMED
