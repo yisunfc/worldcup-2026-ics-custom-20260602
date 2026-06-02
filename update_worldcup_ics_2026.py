@@ -1,6 +1,5 @@
 import requests
 import re
-from icalendar import Calendar, Event
 
 ORIGINAL_ICS_URL = "https://ics.calendarlabs.com/196/9b1053ae/FIFA_World_Cup.ics"
 
@@ -19,61 +18,96 @@ FLAG_MAPPING = {
     'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Croatia': '🇭🇷', 'Uzbekistan': '🇺🇿', 'Colombia': '🇨🇴'
 }
 
-# 修复正则：不用\1，改用group(1)拼接，杜绝转义斜杠错乱
-def process_ics():
+def main():
+    # 拉取原始ICS
     response = requests.get(ORIGINAL_ICS_URL, timeout=30)
     response.raise_for_status()
-    calendar = Calendar.from_ical(response.content)
+    raw = response.text
 
-    for component in calendar.walk():
-        if component.name != "VEVENT":
+    # 手动构建新的ICS文件（100%标准格式）
+    output = []
+    # 先写死标准日历头（绝对不能少）
+    output.append("BEGIN:VCALENDAR")
+    output.append("VERSION:2.0")
+    output.append("PRODID:-//Calendar Labs//Calendar 1.0//EN")
+    output.append("CALSCALE:GREGORIAN")
+    output.append("METHOD:PUBLISH")
+    output.append("X-WR-CALNAME:2026 World Cup")
+    output.append("X-WR-TIMEZONE:UTC")
+
+    # 逐行处理原始文件
+    in_event = False
+    current_event = []
+    current_summary = ""
+
+    for line in raw.splitlines():
+        line = line.strip()
+        if not line:
             continue
-        summary = str(component.get('summary'))
 
-        # 球队替换国旗
-        for country, flag in FLAG_MAPPING.items():
-            summary = summary.replace(country, flag)
+        if line == "BEGIN:VEVENT":
+            in_event = True
+            current_event = []
+            current_summary = ""
+        elif line == "END:VEVENT":
+            in_event = False
+            # 处理当前事件的标题
+            for country, flag in FLAG_MAPPING.items():
+                current_summary = current_summary.replace(country, flag)
 
-        tag = ""
-        # 提取分组/阶段，不再正则替换拼接
-        g_match = re.search(r'Group ([A-L])', summary)
-        if g_match:
-            tag = f"[{g_match.group(1)}]"
-            summary = re.sub(r'Group [A-L]', '', summary)
-        elif re.search(r'Round of 32', summary):
-            tag = "[R32]"
-            summary = re.sub(r'Round of 32', '', summary)
-        elif re.search(r'Round of 16', summary):
-            tag = "[R16]"
-            summary = re.sub(r'Round of 16', '', summary)
-        elif re.search(r'Quarter-final', summary):
-            tag = "[QF]"
-            summary = re.sub(r'Quarter-final', '', summary)
-        elif re.search(r'Semi-final', summary):
-            tag = "[SF]"
-            summary = re.sub(r'Semi-final', '', summary)
-        elif re.search(r'Third Place Playoff', summary):
-            tag = "[TP]"
-            summary = re.sub(r'Third Place Playoff', '', summary)
-        elif re.search(r'Final', summary):
-            tag = "[F]"
-            summary = re.sub(r'Final', '', summary)
+            # 提取阶段/分组
+            tag = ""
+            g_match = re.search(r'Group ([A-L])', current_summary)
+            if g_match:
+                tag = f"[{g_match.group(1)}]"
+                current_summary = re.sub(r'Group [A-L]', '', current_summary)
+            elif re.search(r'Round of 32', current_summary):
+                tag = "[R32]"
+                current_summary = re.sub(r'Round of 32', '', current_summary)
+            elif re.search(r'Round of 16', current_summary):
+                tag = "[R16]"
+                current_summary = re.sub(r'Round of 16', '', current_summary)
+            elif re.search(r'Quarter-final', current_summary):
+                tag = "[QF]"
+                current_summary = re.sub(r'Quarter-final', '', current_summary)
+            elif re.search(r'Semi-final', current_summary):
+                tag = "[SF]"
+                current_summary = re.sub(r'Semi-final', '', current_summary)
+            elif re.search(r'Third Place Playoff', current_summary):
+                tag = "[TP]"
+                current_summary = re.sub(r'Third Place Playoff', '', current_summary)
+            elif re.search(r'Final', current_summary):
+                tag = "[F]"
+                current_summary = re.sub(r'Final', '', current_summary)
 
-        # 删掉Match数字、多余空格、替换待定
-        summary = re.sub(r'Match \d+ - ', '', summary)
-        summary = re.sub(r'\s+', ' ', summary).strip()
-        summary = summary.replace('TBD', '❓')
+            # 清理多余内容
+            current_summary = re.sub(r'Match \d+ - ', '', current_summary)
+            current_summary = re.sub(r'\s+', ' ', current_summary).strip()
+            current_summary = current_summary.replace('TBD', '❓')
 
-        # 最终标题：国旗vs国旗 [标识]
-        new_sum = f"{summary} {tag}".strip()
-        component['summary'] = new_sum
+            # 最终标题
+            final_summary = f"{current_summary} {tag}".strip()
 
-        # ✅ 关键：彻底删除DESCRIPTION字段
-        if 'description' in component:
-            del component['description']
+            # 写入事件（只保留必要字段，删除description）
+            output.append("BEGIN:VEVENT")
+            for field in current_event:
+                if field.startswith("SUMMARY:"):
+                    output.append(f"SUMMARY:{final_summary}")
+                elif not field.startswith("DESCRIPTION:"):
+                    output.append(field)
+            output.append("END:VEVENT")
 
-    with open('worldcup_2026_final.ics', 'wb') as f:
-        f.write(calendar.to_ical())
+        elif in_event:
+            if line.startswith("SUMMARY:"):
+                current_summary = line[8:]
+            current_event.append(line)
+
+    # 写入日历尾
+    output.append("END:VCALENDAR")
+
+    # 保存文件（UTF-8无BOM）
+    with open('worldcup_2026_final.ics', 'w', encoding='utf-8', newline='\r\n') as f:
+        f.write('\r\n'.join(output))
 
 if __name__ == "__main__":
-    process_ics()
+    main()
