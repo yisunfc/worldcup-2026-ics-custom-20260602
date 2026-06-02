@@ -18,24 +18,41 @@ FLAG_MAPPING = {
     'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Croatia': '🇭🇷', 'Uzbekistan': '🇺🇿', 'Colombia': '🇨🇴'
 }
 
+# RFC 5545标准：行长度≤75字节，超长必须折叠，续行开头加空格
+def fold_line(line):
+    if len(line.encode('utf-8')) <= 75:
+        return line
+    result = []
+    current = ""
+    for char in line:
+        if len((current + char).encode('utf-8')) > 75:
+            result.append(current)
+            current = " " + char
+        else:
+            current += char
+    if current:
+        result.append(current)
+    return '\r\n'.join(result)
+
+# 转义特殊字符：, ; : \
+def escape_text(text):
+    return text.replace('\\', '\\\\').replace(',', '\\,').replace(';', '\\;').replace(':', '\\:')
+
 def main():
-    # 拉取原始ICS
     response = requests.get(ORIGINAL_ICS_URL, timeout=30)
     response.raise_for_status()
     raw = response.text
 
-    # 手动构建新的ICS文件（100%标准格式）
     output = []
-    # 先写死标准日历头（绝对不能少）
-    output.append("BEGIN:VCALENDAR")
-    output.append("VERSION:2.0")
-    output.append("PRODID:-//Calendar Labs//Calendar 1.0//EN")
-    output.append("CALSCALE:GREGORIAN")
-    output.append("METHOD:PUBLISH")
-    output.append("X-WR-CALNAME:2026 World Cup")
-    output.append("X-WR-TIMEZONE:UTC")
+    # 标准日历头（严格顺序，一个都不能少）
+    output.append(fold_line("BEGIN:VCALENDAR"))
+    output.append(fold_line("VERSION:2.0"))
+    output.append(fold_line("PRODID:-//Calendar Labs//Calendar 1.0//EN"))
+    output.append(fold_line("CALSCALE:GREGORIAN"))
+    output.append(fold_line("METHOD:PUBLISH"))
+    output.append(fold_line("X-WR-CALNAME:2026 World Cup"))
+    output.append(fold_line("X-WR-TIMEZONE:UTC"))
 
-    # 逐行处理原始文件
     in_event = False
     current_event = []
     current_summary = ""
@@ -51,11 +68,11 @@ def main():
             current_summary = ""
         elif line == "END:VEVENT":
             in_event = False
-            # 处理当前事件的标题
+            
+            # 处理标题
             for country, flag in FLAG_MAPPING.items():
                 current_summary = current_summary.replace(country, flag)
 
-            # 提取阶段/分组
             tag = ""
             g_match = re.search(r'Group ([A-L])', current_summary)
             if g_match:
@@ -80,33 +97,29 @@ def main():
                 tag = "[F]"
                 current_summary = re.sub(r'Final', '', current_summary)
 
-            # 清理多余内容
             current_summary = re.sub(r'Match \d+ - ', '', current_summary)
             current_summary = re.sub(r'\s+', ' ', current_summary).strip()
             current_summary = current_summary.replace('TBD', '❓')
-
-            # 最终标题
             final_summary = f"{current_summary} {tag}".strip()
 
-            # 写入事件（只保留必要字段，删除description）
-            output.append("BEGIN:VEVENT")
+            # 写入事件（只保留必要字段，严格折叠）
+            output.append(fold_line("BEGIN:VEVENT"))
             for field in current_event:
                 if field.startswith("SUMMARY:"):
-                    output.append(f"SUMMARY:{final_summary}")
+                    output.append(fold_line(f"SUMMARY:{escape_text(final_summary)}"))
                 elif not field.startswith("DESCRIPTION:"):
-                    output.append(field)
-            output.append("END:VEVENT")
+                    output.append(fold_line(field))
+            output.append(fold_line("END:VEVENT"))
 
         elif in_event:
             if line.startswith("SUMMARY:"):
                 current_summary = line[8:]
             current_event.append(line)
 
-    # 写入日历尾
-    output.append("END:VCALENDAR")
+    output.append(fold_line("END:VCALENDAR"))
 
-    # 保存文件（UTF-8无BOM）
-    with open('worldcup_2026_final.ics', 'w', encoding='utf-8', newline='\r\n') as f:
+    # 严格使用CRLF换行，UTF-8无BOM编码
+    with open('worldcup_2026_final.ics', 'w', encoding='utf-8', newline='') as f:
         f.write('\r\n'.join(output))
 
 if __name__ == "__main__":
